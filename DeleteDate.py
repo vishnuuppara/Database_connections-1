@@ -20,4 +20,4 @@ myconnection.commit()
 print("Record has been deleted successfully")
 
 
-"New line added..."
+"New line added for feature2..."
